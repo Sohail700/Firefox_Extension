@@ -1,5 +1,5 @@
 import json
-
+#firefox
 # Read the JSON file containing domain names
 with open('companies.json', 'r') as file:
     domains = json.load(file)
